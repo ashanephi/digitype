@@ -15,7 +15,10 @@ Digitype Dojo is a typing speed and accuracy training application. It allows use
    pip install -r requirements.txt
    ```
 
-3. **Run the application**:
+3. **Set up the database**:
+   The database will be automatically created when you run the application for the first time. No additional setup is required.
+
+4. **Run the application**:
    ```sh
    python digitype.py
    ```
